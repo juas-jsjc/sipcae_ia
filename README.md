@@ -31,5 +31,5 @@ Para garantizar la reproducibilidad del entorno y evitar conflictos de librería
 ### Paso 1: Clonar el Repositorio
 Abre tu terminal y clona este repositorio en tu máquina local:
 ```bash
-git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
-cd tu-repositorio/src
+git clone https://github.com/juas-jsjc/sipcae_ia
+cd sipcae_ia/src
